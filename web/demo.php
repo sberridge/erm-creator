@@ -14,7 +14,7 @@
 		</div>
 
 	</div>
-	<canvas id="canvas" height="100px" width="100px"></canvas>
+	<canvas id="canvas" height="100px" width="100px"></canvas> 
 	<a href="#" id="menu">
 		<span></span>
 	</a>
